@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**eboylixo/eboylixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Olá! Podem me chamar de Gabriel
 
-Here are some ideas to get you started:
+- 🔭 / Estudante
+- 🌱 / Aprendendo Java e Desenvolvimento Web
+- 😄 / Ele/Dele
+- ⚡ / Java nem é tão ruim assim!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eboylixo&theme=ocean_dark&count_private=true&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-correia-eboy/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bielcorreias/) 
+

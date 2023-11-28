@@ -4,7 +4,6 @@
 
 - 🔭 / Estudante
 - 🌱 / Aprendendo Java e Desenvolvimento Web
-- 😄 / Ele/Dele
 - ⚡ / Java nem é tão ruim assim!
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eboylixo&theme=ocean_dark&count_private=true&repo=github-readme-stats" />
